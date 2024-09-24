@@ -10,8 +10,8 @@ Aplikacja pobierająca bazę filmów z API tmdb
 
 1. Pobierz repozytorium z github:
    ```bash
-   git clone git@github.com:piotrsobala/Modul10.1_movies_project
-   cd Modul10.1_movies_project
+   git clone git@github.com:piotrsobala/movies_catalogue.git
+   cd movies_catalogue
    
 2. Stwórz wirtualne środowisko 
    python -m venv "sciezka-do-katalogu/movies_env/"
